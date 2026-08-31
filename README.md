@@ -116,8 +116,11 @@ St. Francis De Sales College, Bangalore
 ![Power BI](https://img.shields.io/badge/Power%20BI-Workshop-F2C811?style=flat-square\&logo=powerbi\&logoColor=black)
 
 **Data Analytics Certification — PW Skills (2025)**
+
 **GenAI Data Analytics — Forage (2025)**
+
 **Excel: Beginner to Expert — Analytics Vidhya (2024)**
+
 **Power BI Workshop — Office Master (2024)**
 
 ---
