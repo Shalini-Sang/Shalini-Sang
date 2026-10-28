@@ -59,7 +59,8 @@
 
 ### Operations Analyst
 
-**Richkraft Industries | Bangalore | Jan 2023 – May 2024**
+**NSR Infotech
+| Bangalore | Jan 2023 – May 2024**
 
 * Managed production and operational datasets
 * Analyzed **production output, inventory & shift performance**
