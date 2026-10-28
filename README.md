@@ -63,6 +63,7 @@
 | Bangalore | Jan 2023 – May 2024**
 
 * Managed production and operational datasets
+* Maintained operational data and prepared weekly management reports
 * Prepared MIS reports covering production efficiency and downtime
 * Performed data validation and reconciliation
 
