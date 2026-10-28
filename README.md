@@ -101,6 +101,14 @@ Dashboard covering:
 
 ---
 
+### ERP Financial Performance & Working Capital Analytics Dashboard  
+**SQL · Power BI · DAX · Power Query**
+
+- Analyzed 380,000+ ERP records (financial transactions, AR, AP, expenses)  
+- Resolved data quality issues (missing costs, inconsistent customer IDs)  
+- Built interactive Power BI dashboard for Revenue, Profitability, Budget Variance & Working Capital  
+- Created DAX measures and provided recommendations on budget accuracy and receivables
+
 ## 🎓 Education
 
 **B.Sc. — Physics, Chemistry & Mathematics**
